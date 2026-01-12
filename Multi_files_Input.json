@@ -1,0 +1,14 @@
+[
+	{
+	"para_git_hub_relURL": "R27/refs/heads/raghuM27-ECommDataSet/CustDataTab.csv",
+	"adls_file_name":"CustDataTab.csv"
+	},
+	{
+	"para_git_hub_relURL": "R27/refs/heads/raghuM27-ECommDataSet/GeoLocTable.csv",
+	"adls_file_name":"GeoLocTable.csv"
+	},
+	{
+	"para_git_hub_relURL": "R27/refs/heads/raghuM27-ECommDataSet/ProdDataTable.csv",
+	"adls_file_name":"ProdDataTable.csv"
+	}
+]
